@@ -3,7 +3,6 @@ Created/Authored/coded by : Dileep Verma (DySP (P) - 66th batch) and Soumyashree
 Date : 5 January,2024
 -->
 <html>
-
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
