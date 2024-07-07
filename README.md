@@ -2,8 +2,6 @@
 Created/Authored/coded by : Dileep Verma (DySP (P) - 66th batch) and Soumyashree Behera
 Date : 5 January,2024
 -->
-
-<!Advocate Dileep Verma>
 <html>
 
 <head>
